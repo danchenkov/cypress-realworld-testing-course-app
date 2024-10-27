@@ -34,6 +34,7 @@
     "@types/react": "^17.0.39",
     "autoprefixer": "^10.4.2",
     "chai": "^4.3.6",
+    "cypress": "^13.15.1",
     "eslint": "^8.10.0",
     "eslint-config-next": "^12.1.0",
     "eslint-config-prettier": "^8.5.0",
@@ -53,5 +54,6 @@
     "typescript": "^4.6.2",
     "unslugify": "^1.0.2",
     "url-loader": "^4.1.1"
-  }
+  },
+  "packageManager": "pnpm@9.12.2+sha512.22721b3a11f81661ae1ec68ce1a7b879425a1ca5b991c975b074ac220b187ce56c708fe5db69f4c962c989452eee76c82877f4ee80f474cebd61ee13461b6228"
 }
